@@ -1,4 +1,4 @@
-# Spring-Angular Containerized Application
+# Spring-Angular Containerized Starter
 
 This project provides a foundation for building Spring Boot and Angular applications, designed to be containerized using Docker.
 
@@ -66,5 +66,5 @@ The container is built using the `jib-maven-plugin`, with `eclipse-temurin:21` (
 3. Run the image (Replace the image name):
 
    ```bash
-   docker run -p 8080:8080 matthiaskrt/spring-angular-app
+   docker run -p 8080:8080 matthiaskrt/spring-angular-starter
    ```

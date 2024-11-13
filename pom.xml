@@ -10,10 +10,10 @@
 	</parent>
 	
 	<groupId>matthiaskrt</groupId>
-	<artifactId>spring-angular-app</artifactId>
+	<artifactId>spring-angular-starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>spring-angular-app</name>
+	<name>spring-angular-starter</name>
 	
 	<properties>
 		<java.version>21</java.version>
@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring-angular-app</finalName>
+		<finalName>spring-angular-starter</finalName>
 		
 		<plugins>
 			<plugin>
@@ -118,7 +118,7 @@
 						<image>eclipse-temurin:21</image>
 					</from>
 					<to>
-						<image>matthiaskrt/spring-angular-app</image>
+						<image>matthiaskrt/spring-angular-starter</image>
 					</to>
 					<container>
 						<creationTime>USE_CURRENT_TIMESTAMP</creationTime>
